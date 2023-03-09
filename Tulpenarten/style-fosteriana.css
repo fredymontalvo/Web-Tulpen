@@ -1,0 +1,46 @@
+html {
+  background-color: #ffffdd;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+img {
+  width: 1800px;
+  height: 1000;
+  border-radius: 5px;
+  border: rgb(223, 169, 8) solid;
+}
+
+#h1-fosteriana {
+  color: rgb(188, 40, 156);
+  text-align: center;
+  text-decoration: underline;
+}
+
+h3 {
+  color: rgb(188, 40, 156);
+  text-align: center;
+  text-decoration: underline;
+}
+
+h4 {
+  color: rgb(188, 40, 156);
+  text-align: left;
+  text-decoration: underline;
+}
+
+p {
+  text-align: left;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
